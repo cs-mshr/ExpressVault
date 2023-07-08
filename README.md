@@ -32,8 +32,9 @@ Please refer to the code for more details on the implementation, including code 
 - `POST /deliveryagent/assignLockerto/{order_id}`: Assigns a locker to an order.
 - `POST /customers/getorder/{orderID}`: Takes an order from a locker.
 
-  
-![image](https://github.com/cs-mshr/ExpressVault/assets/95642555/60ab477c-97ed-4118-85b3-e701ad564bd9)
+
+![Screenshot from 2023-07-08 20-12-30](https://github.com/cs-mshr/ExpressVault/assets/95642555/c089872f-e3da-4122-84df-7f73f8d63697)
+
 
 
 Please note that this is a high-level overview. 
